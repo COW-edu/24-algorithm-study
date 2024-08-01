@@ -10,11 +10,11 @@
 
 ## 스터디원
 
-- 고선제
-- 김보겸
-- 김세빈
-- 나경호
-- 유도진
+- 고선제[(KoSeonJe)](https://github.com/KoSeonJe)
+- 김보겸[(k-kbk)](https://github.com/k-kbk)
+- 김세빈[(keemsebin)](https://github.com/keemsebin)
+- 나경호[(Hoya324)](https://github.com/Hoya324)
+- 유도진[(dojinyou)](https://github.com/dojinyou)
 
 ## 활동 내용
 
