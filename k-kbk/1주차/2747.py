@@ -13,3 +13,12 @@ else:
         prev2 = result
 
     print(result)
+
+# - 풀이2
+#
+# fib = [0, 1]
+
+# for i in range(2, 46):
+#     fib.append(fib[i - 1] + fib[i - 2])
+
+# print(fib[n])
