@@ -1,5 +1,3 @@
-print(result)
-
 from itertools import combinations
 
 N, M = map(int, input().split())
@@ -30,3 +28,5 @@ print(result)
 #             number = cards[i] + cards[j] + cards[k]
 #             if result < number <= M:
 #                 result = number
+
+# print(result)
