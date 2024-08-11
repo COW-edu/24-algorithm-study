@@ -15,7 +15,7 @@ else:
     print(result)
 
 # - 풀이2
-#
+
 # fib = [0, 1]
 
 # for i in range(2, 46):
