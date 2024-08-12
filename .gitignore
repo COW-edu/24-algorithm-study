@@ -1,4 +1,6 @@
 .idea
+.vscode
+
 out
 
 dojinyou/Solution*.java
