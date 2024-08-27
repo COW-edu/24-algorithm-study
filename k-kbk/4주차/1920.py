@@ -1,10 +1,13 @@
-from collections import Counter
+from collections import defaultdict
 
-n = int(input())
-nNums = Counter(set(input().split()))
+ddict = defaultdict(int)
 
-m = int(input())
-mNums = input().split()
+n = input()
+for num in input().split():
+    ddict[num] = 1
 
-for num in mNums:
-    print(nNums.get(num, 0))
+m = input()
+nums = input().split()
+
+for num in nums:
+    print(ddict[num])
